@@ -338,7 +338,7 @@ header .navbar ul li a:hover{
 #scroll-top{
   position: fixed;
   top: -140%;
-  right: 2rem;
+  right: 37rem;
   padding: 1rem 1.5rem;
   font-size: 2rem;
   background: #ffae00;
@@ -348,6 +348,6 @@ header .navbar ul li a:hover{
   z-index: 1000;
 }
 #scroll-top.active{
-  top: calc(100% - 12rem);
+  top: calc(100% - 7rem);
 }
 /* scroll top ends */
